@@ -22,20 +22,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Database System
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.Eng in Electrical Engineering and Automation 
+    institution: Zhejiang University
+    year: 2018.8 - 2020.6 (Exp.)
+  - course: B.Sc in Electrical Engineering
+    institution: University of Illinois at Urbana-Champaign
+    year: 2018.8 - 2020.5 (Exp.)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,4 +66,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a sophomore from ZJU - UIUC, majored in Electrical Engineering.
+I am a sophomore at ZJU - UIUC, majored in Electrical Engineering, from Zhejiang University and University of Illinois at Urbana-Champaign. Here is an overview of the dual-degree program: [ZJU - UIUC Institute.](https://zjui.intl.zju.edu.cn/en/content/972)
